@@ -1,4 +1,4 @@
-# Manual-Regresi-Linear-Using-Python
+# Manual-Regresi-Linear-Python
 
 This is the implementation of manual calculation of linear regression using python version(with numpy :D) based on the original one. 
 
